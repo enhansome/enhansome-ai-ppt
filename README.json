@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create beautiful slides on the web using a coding agent's frontend skills",
+            "homepage": null,
             "id": 1143767804,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-23T20:08:19Z",
+            "open_issues": 68,
             "owner": "zarazhangrui",
             "repo": "frontend-slides",
-            "stars": 28319
+            "stars": 28326,
+            "topics": [
+              "ai-slides",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "claude-skill",
+              "generative-ui",
+              "html",
+              "presentation",
+              "slides",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -26,12 +42,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
+            "homepage": null,
             "id": 1215145625,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-25T03:05:46Z",
+            "open_issues": 3,
             "owner": "alchaincyf",
             "repo": "huashu-design",
-            "stars": 23662
+            "stars": 23665,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -42,12 +63,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.",
+            "homepage": null,
             "id": 1219042200,
             "language": "HTML",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-07T03:58:08Z",
+            "open_issues": 40,
             "owner": "op7418",
             "repo": "guizang-ppt-skill",
-            "stars": 25114
+            "stars": 25118,
+            "topics": [
+              "ai-agent",
+              "claude-code",
+              "codex",
+              "html-deck",
+              "image-generation",
+              "ppt",
+              "presentation",
+              "skill",
+              "skills",
+              "swiss-design",
+              "web-ppt"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -58,12 +96,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)",
+            "homepage": "https://presenton.ai",
             "id": 981177285,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T05:30:19Z",
+            "open_issues": 38,
             "owner": "presenton",
             "repo": "presenton",
-            "stars": 9899
+            "stars": 9899,
+            "topics": [
+              "ai-agent",
+              "ai-presentation",
+              "api",
+              "gamma",
+              "powerpoint-automation",
+              "powerpoint-free",
+              "powerpoint-generation",
+              "presentation"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -74,12 +126,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
+            "homepage": null,
             "id": 1211235520,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-04-26T07:13:39Z",
+            "open_issues": 21,
             "owner": "lewislulu",
             "repo": "html-ppt-skill",
-            "stars": 8107
+            "stars": 8108,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -90,12 +147,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A slide framework built for agents.",
+            "homepage": "https://open-slide.dev",
             "id": 1221509404,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T15:27:13Z",
+            "open_issues": 94,
             "owner": "1weiho",
             "repo": "open-slide",
-            "stars": 7253
+            "stars": 7253,
+            "topics": [
+              "agent",
+              "react",
+              "slides"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -106,12 +172,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.",
+            "homepage": null,
             "id": 1264811161,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-30T14:02:33Z",
+            "open_issues": 16,
             "owner": "chuspeeism",
             "repo": "dashi-ppt-skill",
-            "stars": 6743
+            "stars": 6757,
+            "topics": [
+              "agent-skill",
+              "ai-agent",
+              "ai-ppt",
+              "claude",
+              "claude-code",
+              "dashial",
+              "html-presentation",
+              "ppt",
+              "pptx",
+              "presentation",
+              "presentation-generator",
+              "skill",
+              "slide-generator",
+              "slides"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -122,12 +208,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.",
+            "homepage": null,
             "id": 1229531271,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-06-09T23:59:37Z",
+            "open_issues": 1,
             "owner": "zarazhangrui",
             "repo": "beautiful-html-templates",
-            "stars": 4401
+            "stars": 4403,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -138,12 +229,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿。",
+            "homepage": "https://landppt.com",
             "id": 1010085052,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-02T06:00:37Z",
+            "open_issues": 11,
             "owner": "sligter",
             "repo": "LandPPT",
-            "stars": 3575
+            "stars": 3575,
+            "topics": [
+              "ai",
+              "llm",
+              "ppt"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -154,12 +254,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ALLWEONE® Open source AI presentation generator Gamma Alternative. Create professional slides with customizable themes and AI-generated content in minutes.",
+            "homepage": "https://presentation.allweone.com",
             "id": 953944252,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-05T05:57:37Z",
+            "open_issues": 0,
             "owner": "allweonedev",
             "repo": "presentation-ai",
-            "stars": 3008
+            "stars": 3008,
+            "topics": [
+              "ai",
+              "all-in-one",
+              "allweone",
+              "gamma",
+              "generative-ai",
+              "generative-presetation",
+              "powerpoint-generation",
+              "ppt",
+              "ppt-ai",
+              "presentation-slides",
+              "presentations",
+              "slides"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -170,12 +288,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A code-driven presentation generation framework. 像构建软件工程一样生成演示文稿。",
+            "homepage": null,
             "id": 1187464970,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-08T07:41:34Z",
+            "open_issues": 3,
             "owner": "sunbigfly",
             "repo": "ppt-agent-skills",
-            "stars": 887
+            "stars": 887,
+            "topics": [
+              "ai-agents",
+              "html-to-pptx",
+              "multi-agent",
+              "pitch-deck",
+              "powerpoint",
+              "ppt",
+              "pptx",
+              "presentation-generator",
+              "slide-generator",
+              "visual-qa"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -186,12 +320,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use any agent to create stunning, interactive presentations",
+            "homepage": null,
             "id": 1300825775,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-30T17:58:10Z",
+            "open_issues": 6,
             "owner": "stackblitz",
             "repo": "bolt-slides",
-            "stars": 889
+            "stars": 890,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -202,12 +341,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI skill for coding agents that creates production-ready, browser-based presentation slide decks using React + Vite + Framer Motion",
+            "homepage": null,
             "id": 1180500765,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-03-18T05:56:06Z",
+            "open_issues": 0,
             "owner": "code-on-sunday",
             "repo": "slide-deck-generator",
-            "stars": 142
+            "stars": 142,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -218,12 +362,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎨 World-class AI presentation generator · 26 styles · 18 charts · benchmarked against Linear/Anthropic/Stripe/Apple/NYT — a Claude Code Skill that turns one sentence into design-agency-quality decks (HTML + editable PPTX)",
+            "homepage": "https://github.com/Akxan/ppt-agent-skill",
             "id": 1187538031,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-11T00:47:17Z",
+            "open_issues": 0,
             "owner": "Akxan",
             "repo": "ppt-agent-skill",
-            "stars": 139
+            "stars": 139,
+            "topics": [
+              "ai-agent",
+              "ai-presentation",
+              "anthropic",
+              "bento-grid",
+              "claude",
+              "claude-code",
+              "claude-code-skill",
+              "data-visualization",
+              "design-system",
+              "html-to-pptx",
+              "powerpoint",
+              "pptx",
+              "presentation-generator",
+              "presentation-tool",
+              "slide-design",
+              "slidedeck",
+              "slides",
+              "style-system",
+              "typography",
+              "world-class-design"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -234,12 +404,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn papers into editable academic PPTX decks",
+            "homepage": null,
             "id": 1273110686,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-18T08:09:18Z",
+            "open_issues": 0,
             "owner": "M1n-n9",
             "repo": "academic-ppt-master",
-            "stars": 155
+            "stars": 155,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -250,12 +425,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Universal AI skill for generating standalone HTML slide decks",
+            "homepage": "https://make-slide.vercel.app",
             "id": 1184861803,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-04-10T04:07:36Z",
+            "open_issues": 0,
             "owner": "Kuneosu",
             "repo": "make-slide",
-            "stars": 122
+            "stars": 122,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -266,12 +446,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一句话需求也能做成像样 PPT：先问清受众、场景和风格，再整理本地资料，生成可编辑 PPTX/Web Deck，并用 GPT 生图、渲染审阅和审计留痕守住真实办公成稿。",
+            "homepage": "https://kdnsna.github.io/ultimate-ppt-master-skill/",
             "id": 1221560860,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-07T15:38:19Z",
+            "open_issues": 14,
             "owner": "kdnsna",
             "repo": "ultimate-ppt-master-skill",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "agent-skill",
+              "ai-ppt",
+              "ai-presentation",
+              "codex",
+              "document-conversion",
+              "editable-pptx",
+              "gpt-image-generation",
+              "html-to-pptx",
+              "local-first",
+              "office-productivity",
+              "powerpoint",
+              "pptx",
+              "pptx-generator",
+              "presentation",
+              "presentation-design",
+              "presentation-generator",
+              "presentation-tool",
+              "quality-assurance",
+              "slides",
+              "web-deck"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -282,12 +488,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "你的下个 slide，何必是 PPT — AI-powered HTML presentations. 26+ styles, zero dependencies, bilingual. Works with Claude Code & OpenClaw.",
+            "homepage": null,
             "id": 1200170264,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-04-17T01:32:35Z",
+            "open_issues": 0,
             "owner": "codesstar",
             "repo": "next-slide",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -298,12 +509,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI interface for Marp and Marpit based converters",
+            "homepage": null,
             "id": 144130157,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-20T11:41:31Z",
+            "open_issues": 19,
             "owner": "marp-team",
             "repo": "marp-cli",
-            "stars": 3785
+            "stars": 3785,
+            "topics": [
+              "cli",
+              "deck",
+              "markdown",
+              "marp",
+              "marpit",
+              "presentation",
+              "slides"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -314,12 +538,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Editable HTML presentation skill for Codex/Claude Code with drag-resize editing, slide reordering, local save/export, and PPTX-to-web conversion. Shout out to @zarazhangrui ",
+            "homepage": null,
             "id": 1201104592,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-07-01T09:06:26Z",
+            "open_issues": 4,
             "owner": "archlizheng",
             "repo": "frontend-slides-editable",
-            "stars": 474
+            "stars": 474,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -330,12 +559,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "渐进交互式ppt生成skill",
+            "homepage": null,
             "id": 1186376781,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-04-28T16:28:50Z",
+            "open_issues": 0,
             "owner": "mucsbr",
             "repo": "ppt-agent-workflow-san",
-            "stars": 633
+            "stars": 633,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -346,12 +580,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1155351415,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-03-03T02:39:01Z",
+            "open_issues": 0,
             "owner": "MYZY-AI",
             "repo": "dokie-ai-ppt",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -362,12 +601,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于Vue3的AI PPT产品，LangChat Slides - Next-Gen AI Slide Generator",
+            "homepage": "https://slides.langchat.cn/",
             "id": 1125015998,
             "language": "Vue",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-15T05:04:31Z",
+            "open_issues": 1,
             "owner": "LangChat",
             "repo": "langchat-slides",
-            "stars": 218
+            "stars": 218,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -378,12 +622,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AST-based outline director for human-centered AI presentation workflows.",
+            "homepage": "https://learnprompt.github.io/humanize-ppt/",
             "id": 1238426179,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-31T08:08:39Z",
+            "open_issues": 0,
             "owner": "LearnPrompt",
             "repo": "humanize-ppt",
-            "stars": 910
+            "stars": 910,
+            "topics": [
+              "ai-workflow",
+              "ast",
+              "html-slides",
+              "humanizer",
+              "ppt",
+              "presentation",
+              "skill"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -394,12 +651,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Best harness + editor + linter for generating slides in Claude Code / Codex - Claude Design Open Source Alternative ",
+            "homepage": "https://nomadamas.github.io/slides-grab/",
             "id": 1176054517,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-25T09:21:52Z",
+            "open_issues": 4,
             "owner": "NomaDamas",
             "repo": "slides-grab",
-            "stars": 1193
+            "stars": 1193,
+            "topics": [
+              "ppt",
+              "slides",
+              "slideshow"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -410,12 +676,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Describe what you need — a presentation, lesson, or story — and let the AI build clean, beautiful HTML slides for you. Local-first. Works offline. Works for you.",
+            "homepage": "http://www.ohmyppt.cc",
             "id": 1219896053,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T14:08:21Z",
+            "open_issues": 9,
             "owner": "arcsin1",
             "repo": "oh-my-ppt",
-            "stars": 1911
+            "stars": 1911,
+            "topics": [
+              "ai-agents",
+              "ai-ppt",
+              "ai-ppt-generator",
+              "ai-tool",
+              "aippt",
+              "design-systems",
+              "desktop-app",
+              "html-ppt",
+              "local-fist",
+              "ppt-generator",
+              "pptx-generator"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -426,12 +709,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "把一篇长文、一个长 PDF，转为可读的精美 Slides。",
+            "homepage": null,
             "id": 1231607252,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-08T08:48:50Z",
+            "open_issues": 0,
             "owner": "gainubi",
             "repo": "note-slides",
-            "stars": 243
+            "stars": 243,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -442,12 +730,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Coding agent skill for making reveal.js presentations",
+            "homepage": null,
             "id": 1107231862,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-02T03:51:37Z",
+            "open_issues": 3,
             "owner": "ryanbbrown",
             "repo": "revealjs-skill",
-            "stars": 398
+            "stars": 398,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -458,12 +751,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anchor Deck: local-first HTML presentation editor for converting AI-generated slides into editable HTML decks",
+            "homepage": "https://wengzige.github.io/html-deck-editor/",
             "id": 1274957825,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T07:51:43Z",
+            "open_issues": 0,
             "owner": "wengzige",
             "repo": "html-deck-editor",
-            "stars": 155
+            "stars": 155,
+            "topics": [
+              "ai-slides",
+              "anchor-deck",
+              "editor",
+              "html",
+              "html-deck",
+              "local-first",
+              "presentation",
+              "presentation-editor",
+              "zip"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -474,12 +782,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A skill that generates polished self-contained HTML presentations with smooth Magic Move-style slide transitions.",
+            "homepage": "https://magicslide.show",
             "id": 1222374833,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T07:28:46Z",
+            "open_issues": 0,
             "owner": "daniel-style",
             "repo": "magic-slide",
-            "stars": 170
+            "stars": 170,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -490,12 +803,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agentes e templates para criação de slides animados com D3.js em HTML",
+            "homepage": null,
             "id": 1265380989,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T23:01:53Z",
+            "open_issues": 4,
             "owner": "sandeco",
             "repo": "mira-animator",
-            "stars": 186
+            "stars": 186,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -506,12 +824,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. It also supports AIPPT and local PPTX file preview.",
+            "homepage": "https://pipipi-pikachu.github.io/PPTist/",
             "id": 320299900,
             "language": "Vue",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-16T14:28:51Z",
+            "open_issues": 23,
             "owner": "pipipi-pikachu",
             "repo": "PPTist",
-            "stars": 9280
+            "stars": 9280,
+            "topics": [
+              "ai",
+              "aippt",
+              "office",
+              "office-powerpoint",
+              "online-powerpoint",
+              "online-ppt",
+              "powerpoint",
+              "ppt",
+              "pptx",
+              "pptx-preview",
+              "presentation",
+              "slide"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         }
@@ -528,12 +864,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个基于nano banana pro🍌的原生AI PPT生成应用，迈向＂Vibe PPT＂; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌",
+            "homepage": "http://bananaslides.online",
             "id": 1106663535,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T21:05:51Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T04:55:25Z",
+            "open_issues": 76,
             "owner": "Anionex",
             "repo": "banana-slides",
-            "stars": 15513
+            "stars": 15513,
+            "topics": [
+              "ai-ppt-maker",
+              "ai-slide-builder",
+              "ai-slides",
+              "editable-pptx",
+              "llm",
+              "nanobananapro",
+              "ppt",
+              "ppt-generator",
+              "slides",
+              "text2image"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -544,12 +896,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NanoBanana PPT Skills 基于 AI 自动生成高质量 PPT 图片和视频的强大工具，支持智能转场和交互式播放",
+            "homepage": null,
             "id": 1130841791,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-19T03:07:23Z",
+            "open_issues": 6,
             "owner": "op7418",
             "repo": "NanoBanana-PPT-Skills",
-            "stars": 3221
+            "stars": 3221,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -560,12 +917,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "中文手绘技术 PPT 整页图像生成 Skill | 21:9 封面 + 16:9 正文配图 | PNG 输出",
+            "homepage": "https://ianneo.xyz",
             "id": 1220914655,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-25T14:23:25Z",
+            "open_issues": 2,
             "owner": "helloianneo",
             "repo": "ian-handdrawn-ppt",
-            "stars": 1364
+            "stars": 1364,
+            "topics": [
+              "ai-agent",
+              "chinese",
+              "codex-skill",
+              "handdrawn",
+              "image-generation",
+              "ppt"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -576,12 +945,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
+            "homepage": null,
             "id": 1221334781,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-08T12:18:50Z",
+            "open_issues": 0,
             "owner": "NyxTides",
             "repo": "ppt-image-first",
-            "stars": 1198
+            "stars": 1198,
+            "topics": [
+              "office",
+              "powerpoint",
+              "ppt",
+              "slide",
+              "slides"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -592,12 +972,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clone any .pptx into your own deck — OpenAI gpt-image-2 mimics the layout, you supply the content. 10 bundled styles. | 把任何 .pptx 模板\"抄\"成你的 PPT：gpt-image-2 仿版式、你换内容，另含 10 套精选风格。Claude Code / OpenClaw skill. ",
+            "homepage": "https://slidecraft-template-gallery.vercel.app/",
             "id": 1214805512,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T23:07:51Z",
+            "open_issues": 2,
             "owner": "JuneYaooo",
             "repo": "gpt-image2-ppt-skills",
-            "stars": 1207
+            "stars": 1209,
+            "topics": [
+              "ai-ppt",
+              "ai-ppt-skills",
+              "ai-presentation",
+              "claude-code-skills",
+              "claude-skill",
+              "gpt-image-2",
+              "openclaw-skills",
+              "ppt-skill",
+              "ppt-skills",
+              "pptx-templater"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -608,12 +1004,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other Skill-Compatible Agents",
+            "homepage": "https://ppt-skill.ningzimu.vip",
             "id": 1221429772,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-30T15:13:45Z",
+            "open_issues": 2,
             "owner": "ningzimu",
             "repo": "codex-ppt-skill",
-            "stars": 5321
+            "stars": 5323,
+            "topics": [
+              "agent-skills",
+              "ai-ppt",
+              "claude-code",
+              "codex",
+              "gpt-image-2",
+              "powerpoint",
+              "ppt",
+              "ppt-skill",
+              "pptx",
+              "presentation",
+              "skill"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -624,12 +1037,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"Paper2Slides: From Paper to Presentation in One Click\"",
+            "homepage": null,
             "id": 1111537966,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-20T09:08:14Z",
+            "open_issues": 24,
             "owner": "HKUDS",
             "repo": "Paper2Slides",
-            "stars": 3821
+            "stars": 3821,
+            "topics": [
+              "agentic-ai",
+              "llm-agents",
+              "paper2poster",
+              "paper2slides"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -640,12 +1063,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-generated presentation slides. Methodology and templates for narrative-based presentations",
+            "homepage": null,
             "id": 1112563451,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-27T17:47:20Z",
+            "open_issues": 0,
             "owner": "grapeot",
             "repo": "nbp_slides",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -656,12 +1084,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn a prompt into polished, full-slide PPT decks with gpt-image-2. 把一句提示词转换成由 gpt-image-2 生成的、精美完整的整页式 PPT 演示文稿。",
+            "homepage": null,
             "id": 1224887964,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-30T15:54:39Z",
+            "open_issues": 0,
             "owner": "stevenjinlong",
             "repo": "awesome-ppt-skills",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -672,12 +1105,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI workflow (base on gpt-image-2 and paddleocr vl1.6) for generating PPT decks from papers, PDFs, figures, screenshots, and prepared materials, then rebuilding editable PPTX files.",
+            "homepage": null,
             "id": 1230797184,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-07T14:48:39Z",
+            "open_issues": 1,
             "owner": "snowmanzhuang",
             "repo": "yixueAIganhuo-PPT",
-            "stars": 191
+            "stars": 191,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -688,12 +1126,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎨 Open-source AI slide studio inside Codex: image-native decks, every slide a full visual canvas. ⚡ 10+ high-quality slides in ~4–5 minutes — Fast mode renders every page in parallel. 🔍 Watch the whole chain live: research → outline → style → render → edit → present → export PDF/PPTX. 🖥️ Browser-first · zero API keys · durable projects.",
+            "homepage": "https://github.com/nexu-io/codex-slides#readme",
             "id": 1296366949,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-21T08:59:12Z",
+            "open_issues": 6,
             "owner": "nexu-io",
             "repo": "codex-slides",
-            "stars": 850
+            "stars": 850,
+            "topics": [
+              "agent-skills",
+              "ai-ppt",
+              "ai-presentation",
+              "ai-slides",
+              "codex",
+              "codex-plugin",
+              "coding-agents",
+              "deep-research",
+              "design-system",
+              "gamma-alternative",
+              "generative-ai",
+              "image-generation",
+              "mcp",
+              "nextjs",
+              "open-design",
+              "powerpoint",
+              "pptx",
+              "presentation-generator",
+              "slides",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         }
@@ -710,12 +1174,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+            "homepage": "https://hugohe3.github.io/ppt-master-examples/",
             "id": 1113573066,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:51:24Z",
+            "open_issues": 6,
             "owner": "hugohe3",
             "repo": "ppt-master",
-            "stars": 50047
+            "stars": 50066,
+            "topics": [
+              "ai-agent",
+              "aippt",
+              "office",
+              "powerpoint",
+              "powerpoint-generation",
+              "ppt",
+              "pptx",
+              "presentation",
+              "slide",
+              "slides"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -726,12 +1206,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI 智能生成 PPT，通过主题/文件/网址等方式生成PPT，支持原生图表、动画、3D特效等复杂PPT的解析和渲染，支持用户自定义模板，支持智能添加动画，可在线体验。AI generates PowerPoint Presentation, Supports parsing and rendering of complex PPT features such as native charts, animations, and 3D effects.",
+            "homepage": "https://www.veasion.cn/AiPPT/",
             "id": 823943506,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-11T07:36:02Z",
+            "open_issues": 1,
             "owner": "veasion",
             "repo": "AiPPT",
-            "stars": 1906
+            "stars": 1906,
+            "topics": [
+              "ai-powerpoint",
+              "ai-ppt",
+              "ai-slides",
+              "ai-to-pptx",
+              "gpt-ppt",
+              "md2ppt",
+              "ppt-generation",
+              "ppt2json",
+              "slide-generator",
+              "slides"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -742,12 +1238,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "前端后端同时开源。 Ai-to-pptx是一个使用AI技术(DeepSeek)制作PPTX的助手，支持在线生成和导出PPTX。 主要功能: 1 使用DeepSeek等大语言模型来生成大纲 2 生成PPTX的时候可以选择不同的模板 3 支持导出PPTX",
+            "homepage": "https://pptx.dandian.net",
             "id": 758314941,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-12T16:18:47Z",
+            "open_issues": 5,
             "owner": "SmartSchoolAI",
             "repo": "ai-to-pptx",
-            "stars": 1459
+            "stars": 1459,
+            "topics": [
+              "ai-to-pptx",
+              "aippt",
+              "chatgpt",
+              "chatgpt-pptx",
+              "chatgpt-to-",
+              "chatgpt-to-pptx",
+              "pptx",
+              "slides",
+              "vueppt"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -758,12 +1269,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Claude Skill for creating academic presentations (conference talks, seminar slides, thesis defenses, grant briefings). Enforces action titles, structured argument, exhibit discipline, citation standards, and communication-first design. Works alongside Anthropic's built-in PPTX skill.",
+            "homepage": null,
             "id": 1169612059,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-14T23:54:54Z",
+            "open_issues": 3,
             "owner": "Gabberflast",
             "repo": "academic-pptx-skill",
-            "stars": 821
+            "stars": 821,
+            "topics": [
+              "academic",
+              "academic-presentations",
+              "agent-skills",
+              "anthropic",
+              "claude",
+              "claude-ai",
+              "claude-skills",
+              "data-visualization",
+              "pptx",
+              "presentation-design",
+              "presentations",
+              "slides"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -774,12 +1303,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Co-create PowerPoint slide decks with AI",
+            "homepage": "https://barunsaha-slide-deck-ai.hf.space/",
             "id": 683734054,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-15T07:32:11Z",
+            "open_issues": 15,
             "owner": "barun-saha",
             "repo": "slide-deck-ai",
-            "stars": 373
+            "stars": 373,
+            "topics": [
+              "anthropic",
+              "azure-openai",
+              "bert",
+              "cli",
+              "gemini-ai",
+              "gemini-api",
+              "gemini-flash",
+              "generative-ai",
+              "hackathon",
+              "large-language-models",
+              "litellm",
+              "llama",
+              "ollama",
+              "openrouterai",
+              "pdf",
+              "powerpoint-presentations",
+              "pypi",
+              "sambanova",
+              "streamlit",
+              "togetherai"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -790,12 +1345,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn papers, code, and docs into presentation-ready, natively editable PPTX in Codex / Claude Code. Native charts and equations, speaker notes, click-build animations, and an independent critic review before delivery.",
+            "homepage": "https://slides.addsum.top",
             "id": 1269050856,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T21:39:11Z",
+            "open_issues": 0,
             "owner": "addsumtech",
             "repo": "slides_maker",
-            "stars": 484
+            "stars": 484,
+            "topics": [
+              "agent",
+              "ai",
+              "ai-agent",
+              "claude",
+              "claude-code",
+              "codex",
+              "powerpoint",
+              "ppt",
+              "pptx",
+              "presentation",
+              "presentation-generator",
+              "python",
+              "skill",
+              "slides"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -806,12 +1381,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ChatPPT is powered by chatgpt/ollama, it could help you to generate PPT/slide. It supports output in English and Chinese",
+            "homepage": null,
             "id": 621800428,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-14T13:07:31Z",
+            "open_issues": 5,
             "owner": "HuiMi24",
             "repo": "chatppt",
-            "stars": 307
+            "stars": 307,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -822,12 +1402,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerpointer - A beautiful powerpoint generator which uses GPT 3.5 to generate the slides.",
+            "homepage": null,
             "id": 612340308,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-04T20:41:15Z",
+            "open_issues": 3,
             "owner": "CyberTimon",
             "repo": "Powerpointer",
-            "stars": 177
+            "stars": 177,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -838,12 +1423,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Consulting firm-style PowerPoint design system for AI agents. 70 layout patterns, flat design, python-pptx. 麦麸风格PPT设计系统。",
+            "homepage": null,
             "id": 1171338975,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-10T14:36:15Z",
+            "open_issues": 3,
             "owner": "likaku",
             "repo": "Mck-ppt-design-skill",
-            "stars": 261
+            "stars": 261,
+            "topics": [
+              "agent-skill",
+              "ai-skill",
+              "ai-skills",
+              "ba",
+              "business",
+              "claude",
+              "claude-code",
+              "claude-skill",
+              "consulting",
+              "design-system",
+              "mckinsey",
+              "pitch-deck",
+              "powerpoint",
+              "ppt",
+              "pptx",
+              "presentation",
+              "presentation-design",
+              "python",
+              "python-pptx",
+              "storyline"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -854,12 +1465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI coding assistant skill for creating visually rich PowerPoint (.pptx) presentations with native OMML math, LaTeX formulas, and Graphviz/Mermaid/TikZ diagrams",
+            "homepage": null,
             "id": 1180445638,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-17T14:51:12Z",
+            "open_issues": 0,
             "owner": "Noi1r",
             "repo": "powerpoint-skill",
-            "stars": 115
+            "stars": 115,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -870,12 +1486,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Claude Code skill for generating PowerPoint decks from markdown using template slide master layouts",
+            "homepage": null,
             "id": 1146536591,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-03T03:36:40Z",
+            "open_issues": 2,
             "owner": "tristan-mcinnis",
             "repo": "pptx-from-layouts-skill",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "agents",
+              "ai",
+              "claude",
+              "claude-code",
+              "codex",
+              "openai",
+              "opencode",
+              "powerpoint",
+              "pptx",
+              "pptx-generator",
+              "pptx-parser",
+              "presentation-slides",
+              "python",
+              "skill",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -886,12 +1523,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Claude Code skill for generating academic defense presentations (.pptx) from LaTeX/PDF — dual-engine figures (Matplotlib + Gemini), action titles, speaker notes, Q&A prediction",
+            "homepage": null,
             "id": 1189560583,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-23T12:53:26Z",
+            "open_issues": 0,
             "owner": "PHY041",
             "repo": "claude-skill-academic-ppt",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -902,12 +1544,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Agentic Framework for Reflective PowerPoint Generation",
+            "homepage": "https://arxiv.org/abs/2501.03936",
             "id": 911831076,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T20:52:49Z",
+            "open_issues": 12,
             "owner": "icip-cas",
             "repo": "PPTAgent",
-            "stars": 4963
+            "stars": 4963,
+            "topics": [
+              "agent",
+              "agentic-ai",
+              "llm",
+              "mcp",
+              "openclaw",
+              "presentation",
+              "slide"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -918,12 +1573,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
+            "homepage": null,
             "id": 1251186402,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-22T05:48:17Z",
+            "open_issues": 0,
             "owner": "GordenSun",
             "repo": "GordenPPTSkill",
-            "stars": 2995
+            "stars": 2995,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -934,12 +1594,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AIPPT Online editor，Base On ChatPPT， supports document editing services throughout the entire process, including import, export, layout beautification, online editing, playback, and presentation animation. It can quickly integrate into your products or internal systems of the enterprise.AIPPT在线编辑器，基于ChatPPT，支持整个过程的文档编辑服务，包括导入、导出、布局美化、在线编辑、播放和演示动画。",
+            "homepage": "https://www.chatppt.cn",
             "id": 1047394019,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-09-17T06:51:08Z",
+            "open_issues": 2,
             "owner": "YOOTeam",
             "repo": "OpenPPT",
-            "stars": 1096
+            "stars": 1096,
+            "topics": [
+              "ai-2-slide",
+              "aippt",
+              "chatppt",
+              "editor",
+              "gpt-2-slide",
+              "html-ppt",
+              "powerpoint",
+              "presentation",
+              "slide"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -950,12 +1625,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn paper/text/topic into editable research figures, technical route diagrams, and presentation slides.",
+            "homepage": "https://paper2any-studio.cpolar.cn/",
             "id": 1077989117,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-17T03:34:38Z",
+            "open_issues": 8,
             "owner": "OpenDCAI",
             "repo": "Paper2Any",
-            "stars": 2778
+            "stars": 2778,
+            "topics": [
+              "agent",
+              "ai",
+              "aippt",
+              "editable-pptx",
+              "langgraph",
+              "paper2slides",
+              "ppt-generator"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -966,12 +1654,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "McKinsey-style PPTX generator — Claude Code plugin with 40 slide templates + subagent that picks the right template and defends its choice. Built by AX Labs (이승필).",
+            "homepage": null,
             "id": 1219493841,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-24T05:03:27Z",
+            "open_issues": 0,
             "owner": "seulee26",
             "repo": "mckinsey-pptx",
-            "stars": 567
+            "stars": 567,
+            "topics": [
+              "ai-presentation",
+              "ax-labs",
+              "claude-code",
+              "claude-code-plugin",
+              "consulting",
+              "mckinsey",
+              "powerpoint",
+              "pptx",
+              "python-pptx",
+              "slides"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -982,12 +1686,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codex / Claude Skill for editable thesis-defense PPTX from PDF or LaTeX while preserving a PowerPoint template. 从论文 PDF / LaTeX 生成可编辑答辩 PPTX，并保留指定 PPT 模板风格。",
+            "homepage": null,
             "id": 1225527289,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-05T05:51:03Z",
+            "open_issues": 1,
             "owner": "zouchenzhen",
             "repo": "thesis-defense-pptx-skill",
-            "stars": 251
+            "stars": 251,
+            "topics": [
+              "agent-skill",
+              "chinese",
+              "claude-skill",
+              "codex-skill",
+              "latex",
+              "office-automation",
+              "pdf",
+              "powerpoint",
+              "pptx",
+              "presentation",
+              "python-pptx",
+              "template-matching",
+              "thesis-defense"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -998,12 +1721,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "面向 Codex CLI 的演示工作流 skills 集合，包括商业级可编辑 PPT 协作与网页 demo 配音视频合成等可复盘、可复用流程。A Codex CLI skill collection for reusable presentation workflows, covering editable PPT diagram collaboration and end-to-end web demo video synthesis.",
+            "homepage": null,
             "id": 1173253849,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-29T03:08:15Z",
+            "open_issues": 0,
             "owner": "Sven-LI-sankyuu",
             "repo": "presentation-skills",
-            "stars": 167
+            "stars": 167,
+            "topics": [
+              "claude-code",
+              "codex",
+              "openclaw",
+              "openclaw-skills",
+              "presentation-slides",
+              "presentation-tools",
+              "skill",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1014,12 +1751,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "vue3 + AI Skills实现的aippt项目",
+            "homepage": "https://ppt.jitword.com/jit-slide",
             "id": 1172256089,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-03-10T05:55:46Z",
+            "open_issues": 1,
             "owner": "jitOffice",
             "repo": "aippt",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "ai-tools",
+              "aippt",
+              "deepseek",
+              "kimi-k2",
+              "skills",
+              "vue3-typescript"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1030,12 +1781,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Markdown To PowerPoint converter",
+            "homepage": null,
             "id": 298847427,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T14:33:57Z",
+            "open_issues": 9,
             "owner": "MartinPacker",
             "repo": "md2pptx",
-            "stars": 511
+            "stars": 511,
+            "topics": [
+              "hacktoberfest-accepted",
+              "powerpoint-converter"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1046,12 +1805,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Agent Skill and Dify plugin to transform Markdown to files of DOCX, PPTX, XLSX, PNG, PDF, HTML, MD, CSV, JSON, XML.",
+            "homepage": "https://marketplace.dify.ai/plugins/bowenliang123/md_exporter",
             "id": 918092521,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-13T02:30:02Z",
+            "open_issues": 5,
             "owner": "bowenliang123",
             "repo": "markdown-exporter",
-            "stars": 265
+            "stars": 265,
+            "topics": [
+              "agent-skills",
+              "dify",
+              "dify-plugin",
+              "markdown"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         }
@@ -1068,12 +1837,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.",
+            "homepage": "https://gitbrent.github.io/PptxGenJS/",
             "id": 52322425,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-28T20:17:14Z",
+            "open_issues": 293,
             "owner": "gitbrent",
             "repo": "PptxGenJS",
-            "stars": 6076
+            "stars": 6076,
+            "topics": [
+              "es6-powerpoint",
+              "export-to-pptx",
+              "html-to-powerpoint",
+              "javascript",
+              "javascript-powerpoint",
+              "node-powerpoint",
+              "officejs-alternative",
+              "powerpoint",
+              "powerpoint-generation",
+              "powerpoint-library",
+              "powerpoint-presentations",
+              "pptx",
+              "pptxgenjs",
+              "presentation-library",
+              "react-powerpoint",
+              "slide-generator",
+              "typescript-powerpoint"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1084,12 +1876,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate docx, pptx, and xlsx from templates (Word, Powerpoint and Excel documents), from Node.js or the browser. Demo: https://www.docxtemplater.com/demo. #docx #office #generator #templating #report #json #generate #generation #template #create #pptx #docx #xlsx #react #vuejs #angularjs #browser #typescript #image #html #table #chart",
+            "homepage": "https://www.docxtemplater.com",
             "id": 10098528,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-04T19:58:47Z",
+            "open_issues": 5,
             "owner": "open-xml-templating",
             "repo": "docxtemplater",
-            "stars": 3615
+            "stars": 3615,
+            "topics": [
+              "docx",
+              "docx-generation",
+              "docx-generator",
+              "docx-template",
+              "excel",
+              "javascript",
+              "microsoft",
+              "office",
+              "powerpoint",
+              "pptx",
+              "template",
+              "word",
+              "xlsx"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1100,12 +1911,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create Open XML PowerPoint documents in Python",
+            "homepage": null,
             "id": 6794278,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-07T17:36:44Z",
+            "open_issues": 534,
             "owner": "scanny",
             "repo": "python-pptx",
-            "stars": 3502
+            "stars": 3502,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1116,12 +1932,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A template based pptx generator for Node.js",
+            "homepage": null,
             "id": 344056573,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T10:34:07Z",
+            "open_issues": 5,
             "owner": "singerla",
             "repo": "pptx-automizer",
-            "stars": 238
+            "stars": 238,
+            "topics": [
+              "nodejs",
+              "powerpoint",
+              "powerpoint-automation",
+              "powerpoint-generation",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1132,12 +1959,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create PowerPoint presentations with React",
+            "homepage": "https://wyozi.github.io/react-pptx/",
             "id": 222521475,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-02-24T08:44:06Z",
+            "open_issues": 13,
             "owner": "wyozi",
             "repo": "react-pptx",
-            "stars": 216
+            "stars": 216,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1148,12 +1982,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent-native PowerPoint manipulation — one CLI lets AI agents inspect, edit, create, and verify .pptx files through atomic JSON patches. Packaged as an Agent Skill.",
+            "homepage": "https://nityesh.com/hands-on-deck/",
             "id": 1264269844,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-04T10:08:06Z",
+            "open_issues": 10,
             "owner": "EveryInc",
             "repo": "hands-on-deck",
-            "stars": 208
+            "stars": 208,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "claude",
+              "powerpoint",
+              "pptx",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1164,12 +2010,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A client-side library that converts any HTML element into a fully editable PowerPoint slide. **dom-to-pptx** transforms DOM structures into pixel-accurate `.pptx` content, preserving gradients, shadows, rounded images, and responsive layouts.",
+            "homepage": "https://www.npmjs.com/package/dom-to-pptx",
             "id": 1107187814,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:14:40Z",
+            "open_issues": 4,
             "owner": "atharva9167j",
             "repo": "dom-to-pptx",
-            "stars": 339
+            "stars": 339,
+            "topics": [
+              "client-side-pptx",
+              "convert-html",
+              "css-to-powerpoint",
+              "css-to-pptx",
+              "dom",
+              "dom-to-pptx",
+              "html-to-powerpoint",
+              "html-to-ppt",
+              "html-to-pptx",
+              "layout-engine",
+              "npm-package",
+              "powerpoint",
+              "powerpoint-presentation",
+              "pptx",
+              "pptx-creator",
+              "presentation-generator",
+              "slides-creation",
+              "web-to-powerpoint",
+              "web-to-pptx"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1180,12 +2051,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-fidelity tool to convert PDF files and images into fully editable PowerPoint presentations (.pptx). Unlike basic converters, it uses AI-powered structure extraction (MinerU) to accurately reconstruct text, layouts, and images, ensuring the output is not just a screenshot but a professional, modifiable document.",
+            "homepage": null,
             "id": 1148715224,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-24T16:08:59Z",
+            "open_issues": 2,
             "owner": "JuniverseCoder",
             "repo": "MinerU2PPT",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "document-reconstruction",
+              "editable-slides",
+              "image-to-pptx",
+              "mineru",
+              "notebooklm",
+              "ocr",
+              "pdf-to-ppt",
+              "pdf-to-pptx"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1196,12 +2081,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "小北在读研开源 Codex Skills 合集：Image to VBA、Academic Paper to PPT 等 AI + 科研工作流。",
+            "homepage": "https://xiaobeiai.top",
             "id": 1250422671,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T14:30:29Z",
+            "open_issues": 2,
             "owner": "xiao24bei",
             "repo": "xiaobei-skill",
-            "stars": 222
+            "stars": 222,
+            "topics": [
+              "academic-figures",
+              "academic-ppt",
+              "academic-presentation",
+              "agent-skills",
+              "ai-for-research",
+              "codex-skill",
+              "editable-powerpoint",
+              "image-to-vba",
+              "office-shapes",
+              "office-vba",
+              "openai-codex",
+              "paper-to-ppt",
+              "powerpoint",
+              "powerpoint-live",
+              "ppt",
+              "rebuild-image-in-powerpoint",
+              "research-figures",
+              "wps",
+              "xiaobei",
+              "xiaobei-skill"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1212,12 +2123,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Backend for SlideSpeak. Create PowerPoints with AI. Get summaries, ask questions, create presentations and more.",
+            "homepage": "https://slidespeak.co",
             "id": 670216155,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-06T17:24:49Z",
+            "open_issues": 2,
             "owner": "SlideSpeak",
             "repo": "slidespeak-backend",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "chatgpt",
+              "langchain",
+              "llama-index",
+              "llm",
+              "mongodb",
+              "pinecone",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1228,12 +2152,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PowerPoint MCP server and CLI for safe Microsoft PowerPoint automation via the native COM API, with GitHub Copilot, Claude, and ChatGPT support.",
+            "homepage": "https://www.nuget.org/packages/PptMcp.McpServer",
             "id": 1171445085,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-25T10:17:26Z",
+            "open_issues": 15,
             "owner": "trsdn",
             "repo": "mcp-server-ppt",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "ai",
+              "automation",
+              "chatgpt",
+              "claude",
+              "com-interop",
+              "dotnet",
+              "github-copilot",
+              "mcp",
+              "microsoft-powerpoint",
+              "powerpoint"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1244,12 +2184,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codex skill for converting slide images, PDFs, and image-based PPTX files into editable PowerPoint decks.",
+            "homepage": "https://ppt-skill.ningzimu.vip",
             "id": 1245952606,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-28T07:00:30Z",
+            "open_issues": 5,
             "owner": "ningzimu",
             "repo": "image-to-editable-ppt-skill",
-            "stars": 2219
+            "stars": 2222,
+            "topics": [
+              "codex",
+              "codex-skill",
+              "editable-ppt",
+              "image-to-ppt",
+              "imagegen",
+              "multi-agent",
+              "pdf-to-pptx",
+              "powerpoint",
+              "pptx",
+              "presentation"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1260,12 +2216,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pure PHP library for reading and writing presentations documents ",
+            "homepage": "https://phpoffice.github.io/PHPPresentation",
             "id": 4630870,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T20:57:24Z",
+            "open_issues": 248,
             "owner": "PHPOffice",
             "repo": "PHPPresentation",
-            "stars": 1373
+            "stars": 1373,
+            "topics": [
+              "hacktoberfest",
+              "libreoffice-impress",
+              "mspowerpoint",
+              "odp",
+              "office",
+              "php",
+              "powerpoint",
+              "ppt",
+              "pptx",
+              "presentation"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1276,12 +2248,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The world's best PowerPoint MCP server - Real-time PowerPoint control via COM automation",
+            "homepage": null,
             "id": 1159140448,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-03T23:52:50Z",
+            "open_issues": 1,
             "owner": "ykuwai",
             "repo": "ppt-mcp",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1292,12 +2269,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+            "homepage": "https://officecli.ai",
             "id": 1182212878,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T15:32:09Z",
+            "open_issues": 92,
             "owner": "iOfficeAI",
             "repo": "OfficeCLI",
-            "stars": 29457
+            "stars": 29459,
+            "topics": [
+              "agent",
+              "ai",
+              "claude-code",
+              "cli",
+              "codex",
+              "docx",
+              "excel",
+              "office",
+              "openclaw",
+              "pptx",
+              "presentation",
+              "skills",
+              "word",
+              "xlsx"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1308,12 +2305,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert NotebookLM PDFs to PPTX with separated background images and editable text layers using Gemini AI",
+            "homepage": null,
             "id": 1131224868,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-01-22T09:48:38Z",
+            "open_issues": 1,
             "owner": "laihenyi",
             "repo": "NBLM2PPTX",
-            "stars": 340
+            "stars": 340,
+            "topics": [
+              "ai-tool",
+              "gemini-ai",
+              "google-gemini",
+              "notebooklm",
+              "ocr",
+              "pdf-converter",
+              "pdf-to-pptx",
+              "pptx",
+              "text-removal"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1324,12 +2336,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codex skill for converting PPT slide images into editable PowerPoint decks",
+            "homepage": null,
             "id": 1227445087,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-03T04:59:23Z",
+            "open_issues": 0,
             "owner": "soulmujoco",
             "repo": "EditableImage2PPTSkill",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1340,12 +2357,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1199528468,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-27T16:15:25Z",
+            "open_issues": 4,
             "owner": "Morgensonne",
             "repo": "EditDeck",
-            "stars": 1201
+            "stars": 1201,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1356,12 +2378,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1111540545,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-22T08:17:10Z",
+            "open_issues": 6,
             "owner": "Tansuo2021",
             "repo": "OCRPDF-TO-PPT",
-            "stars": 474
+            "stars": 474,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1372,12 +2399,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PowerPoint .NET library for reading, modifying, and generating PPTX presentations without Microsoft Office",
+            "homepage": null,
             "id": 196728321,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-16T18:52:25Z",
+            "open_issues": 22,
             "owner": "ShapeCrawler",
             "repo": "ShapeCrawler",
-            "stars": 441
+            "stars": 441,
+            "topics": [
+              "csharp",
+              "document-processing",
+              "dotnet",
+              "office-open-xml",
+              "openxml",
+              "powerpoint",
+              "pptx",
+              "presentation",
+              "slides"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1388,12 +2430,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert PaddleOCR-VL layout parsing JSON and images into editable PowerPoint decks",
+            "homepage": null,
             "id": 1221521412,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-10T12:43:25Z",
+            "open_issues": 0,
             "owner": "Daniel-Siae",
             "repo": "image2pptx",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1404,12 +2451,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert static images to editable PowerPoint slides — OCR, inpaint, reconstruct",
+            "homepage": null,
             "id": 1187666214,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-12T21:46:49Z",
+            "open_issues": 2,
             "owner": "JadeLiu-tech",
             "repo": "px-image2pptx",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1420,12 +2472,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Rust library for generating PowerPoint presentations that actually works.",
+            "homepage": "https://crates.io/crates/ppt-rs",
             "id": 1104665068,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T15:17:05Z",
+            "open_issues": 7,
             "owner": "yingkitw",
             "repo": "ppt-rs",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "ppt",
+              "pptx",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1436,12 +2497,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically convert HTML files to PowerPoint presentations - Command-line tool and Node.js library",
+            "homepage": null,
             "id": 1078786393,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-07-18T09:41:16Z",
+            "open_issues": 11,
             "owner": "abdelkrimkr",
             "repo": "html2pptx",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1452,12 +2518,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Claude Code skill: convert HTML slide decks to editable .pptx (native shapes, not screenshots)",
+            "homepage": null,
             "id": 1220492383,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-25T00:46:54Z",
+            "open_issues": 0,
             "owner": "Emily27-alt",
             "repo": "html-to-pptx",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1468,12 +2539,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A MCP Server for creating Powerpoint Presentations",
+            "homepage": null,
             "id": 942603694,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-15T09:35:36Z",
+            "open_issues": 3,
             "owner": "supercurses",
             "repo": "powerpoint",
-            "stars": 144
+            "stars": 144,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1484,12 +2560,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Model Context Protocol server for PowerPoint automation on Windows via pywin32",
+            "homepage": null,
             "id": 1085275941,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-01T05:29:42Z",
+            "open_issues": 3,
             "owner": "Ayushmaniar",
             "repo": "powerpoint-mcp",
-            "stars": 112
+            "stars": 112,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1500,12 +2581,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful PowerPoint translation tool that leverages Amazon Bedrock models for high-quality translation. This service can be used both as a standalone command-line tool and as a MCP for integration with AI assistants like Claude Code and Kiro. It translates PowerPoint presentations while preserving formatting and structure.",
+            "homepage": null,
             "id": 1031043480,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-18T07:13:46Z",
+            "open_issues": 1,
             "owner": "daekeun-ml",
             "repo": "ppt-translator",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1516,12 +2602,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于MCP(Model Context Protocol)的Office文档处理助手，支持在MCP Client中创建和编辑Word、Excel、Powerpoint文档。",
+            "homepage": null,
             "id": 954681007,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-13T13:55:46Z",
+            "open_issues": 6,
             "owner": "theWDY",
             "repo": "office-editor-mcp",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1532,12 +2623,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BrandDocs is a set of agent skills that learn your existing Word, PowerPoint and Excel templates and generate new on-brand documents from them. Unlike generic AI document generators, it preserves brand, structure, styles and formulas by construction. Built for Claude Code, Codex and compatible AI agents.",
+            "homepage": "https://ferdinandobons.github.io/brand-docs/",
             "id": 1260255382,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-10T09:16:35Z",
+            "open_issues": 0,
             "owner": "ferdinandobons",
             "repo": "brand-docs",
-            "stars": 254
+            "stars": 254,
+            "topics": [
+              "ai-document-generation",
+              "claude-code-plugin",
+              "codex",
+              "document-automation",
+              "document-generation",
+              "docx",
+              "excel",
+              "microsoft-office",
+              "office-automation",
+              "office-documents",
+              "ooxml",
+              "openpyxl",
+              "powerpoint",
+              "pptx",
+              "python-docx",
+              "python-pptx",
+              "template-automation",
+              "template-engine",
+              "word",
+              "xlsx"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1548,12 +2665,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Strict image-first workflow for recreating user-provided infographic or presentation reference images as editable PowerPoint decks. ",
+            "homepage": null,
             "id": 1221308162,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-16T03:06:02Z",
+            "open_issues": 2,
             "owner": "ZhiweiWei-NAMI",
             "repo": "PPT-Visual-Replica",
-            "stars": 131
+            "stars": 131,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1564,12 +2686,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python toolkit for PowerPoint ↔ HTML, built for AI. Round-trip fidelity preserves formatting across every edit loop — ideal for RAG ingestion, LLM agents, and AI-assisted slide editing.",
+            "homepage": null,
             "id": 1284608906,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-20T16:09:51Z",
+            "open_issues": 0,
             "owner": "solid-shuwen",
             "repo": "shuttleslide",
-            "stars": 176
+            "stars": 176,
+            "topics": [
+              "ai-tools",
+              "cli",
+              "html",
+              "llm-agents",
+              "powerpoint-converter",
+              "pptx"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1580,12 +2714,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Editable scientific figures in PowerPoint and draw.io via Codex/MCP with Designer-Drawer-Reviewer-Corrector quality gates.",
+            "homepage": null,
             "id": 1310624630,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-08T08:20:23Z",
+            "open_issues": 6,
             "owner": "icebird1998",
             "repo": "scientific-illustrator",
-            "stars": 705
+            "stars": 705,
+            "topics": [
+              "codex",
+              "drawio",
+              "editable-figures",
+              "mcp",
+              "powerpoint",
+              "scientific-illustration"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1596,12 +2742,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build PowerPoint presentation from template(pptx) and model(json) data like other template engines",
+            "homepage": null,
             "id": 93691990,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-26T08:45:12Z",
+            "open_issues": 12,
             "owner": "m3dev",
             "repo": "pptx-template",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1612,12 +2763,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Office PowerPoint(.pptx) file to JSON | 将 PPTX 文件转为可读的 JSON 数据",
+            "homepage": "https://pipipi-pikachu.github.io/pptxtojson/",
             "id": 479422604,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-02T05:02:48Z",
+            "open_issues": 7,
             "owner": "pipipi-pikachu",
             "repo": "pptxtojson",
-            "stars": 454
+            "stars": 454,
+            "topics": [
+              "json",
+              "parse",
+              "parser",
+              "powerpoint",
+              "ppt",
+              "ppt2json",
+              "ppttojson",
+              "pptx",
+              "pptx2json",
+              "pptxtojson"
+            ]
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         },
@@ -1628,12 +2795,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a pptx to markdown converter",
+            "homepage": null,
             "id": 155890755,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-21T22:23:56Z",
+            "open_issues": 28,
             "owner": "ssine",
             "repo": "pptx2md",
-            "stars": 1268
+            "stars": 1268,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
         }
@@ -1642,15 +2814,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:28:16.028Z",
+    "last_updated": "2026-08-29T05:00:18.036Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of AI PPT, PowerPoint automation, PPTX editing, and slide workflow tools.",
+      "homepage": "https://ningzimu.github.io/awesome-ai-ppt/",
       "id": 1247981517,
       "language": "Python",
+      "license": "NOASSERTION",
       "last_commit": "2026-08-29T01:45:01Z",
+      "open_issues": 1,
       "owner": "ningzimu",
       "repo": "awesome-ai-ppt",
-      "stars": 122
+      "stars": 122,
+      "topics": [
+        "ai",
+        "aippt",
+        "awesome",
+        "awesome-list",
+        "generative-ai",
+        "powerpoint",
+        "ppt",
+        "pptx",
+        "presentation",
+        "slides"
+      ]
     },
     "original_repository_sha": "bc5d5519340b1a9370f544f6a4473ce2d72c25d0",
     "enhanced_repository": "enhansome/enhansome-ai-ppt",
