@@ -19,7 +19,7 @@
             "open_issues": 68,
             "owner": "zarazhangrui",
             "repo": "frontend-slides",
-            "stars": 30072,
+            "stars": 30078,
             "topics": [
               "ai-slides",
               "anthropic",
@@ -72,7 +72,7 @@
             "open_issues": 47,
             "owner": "op7418",
             "repo": "guizang-ppt-skill",
-            "stars": 27180,
+            "stars": 27186,
             "topics": [
               "ai-agent",
               "claude-code",
@@ -105,7 +105,7 @@
             "open_issues": 25,
             "owner": "presenton",
             "repo": "presenton",
-            "stars": 10921,
+            "stars": 10926,
             "topics": [
               "ai-agent",
               "ai-presentation",
@@ -135,7 +135,7 @@
             "open_issues": 8,
             "owner": "lewislulu",
             "repo": "html-ppt-skill",
-            "stars": 8564,
+            "stars": 8565,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
@@ -152,11 +152,11 @@
             "id": 1221509404,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T23:02:00Z",
-            "open_issues": 131,
+            "last_commit": "2026-10-03T00:26:55Z",
+            "open_issues": 129,
             "owner": "open-slide",
             "repo": "open-slide",
-            "stars": 8687,
+            "stars": 8700,
             "topics": [
               "agent",
               "react",
@@ -181,7 +181,7 @@
             "open_issues": 15,
             "owner": "chuspeeism",
             "repo": "dashi-ppt-skill",
-            "stars": 9058,
+            "stars": 9070,
             "topics": [
               "agent-skill",
               "ai-agent",
@@ -217,7 +217,7 @@
             "open_issues": 1,
             "owner": "zarazhangrui",
             "repo": "beautiful-html-templates",
-            "stars": 4690,
+            "stars": 4692,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
@@ -413,7 +413,7 @@
             "open_issues": 0,
             "owner": "M1n-n9",
             "repo": "academic-ppt-master",
-            "stars": 221,
+            "stars": 222,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
@@ -518,7 +518,7 @@
             "open_issues": 19,
             "owner": "marp-team",
             "repo": "marp-cli",
-            "stars": 3847,
+            "stars": 3848,
             "topics": [
               "cli",
               "deck",
@@ -631,7 +631,7 @@
             "open_issues": 0,
             "owner": "LearnPrompt",
             "repo": "humanize-ppt",
-            "stars": 963,
+            "stars": 964,
             "topics": [
               "ai-workflow",
               "ast",
@@ -685,7 +685,7 @@
             "open_issues": 8,
             "owner": "arcsin1",
             "repo": "oh-my-ppt",
-            "stars": 2095,
+            "stars": 2096,
             "topics": [
               "ai-agents",
               "ai-ppt",
@@ -873,7 +873,7 @@
             "open_issues": 82,
             "owner": "Anionex",
             "repo": "banana-slides",
-            "stars": 15674,
+            "stars": 15676,
             "topics": [
               "ai-ppt-maker",
               "ai-slide-builder",
@@ -954,7 +954,7 @@
             "open_issues": 0,
             "owner": "NyxTides",
             "repo": "ppt-image-first",
-            "stars": 1224,
+            "stars": 1225,
             "topics": [
               "office",
               "powerpoint",
@@ -978,7 +978,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-22T23:07:51Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "JuneYaooo",
             "repo": "gpt-image2-ppt-skills",
             "stars": 1319,
@@ -1013,7 +1013,7 @@
             "open_issues": 1,
             "owner": "ningzimu",
             "repo": "codex-ppt-skill",
-            "stars": 6307,
+            "stars": 6311,
             "topics": [
               "agent-skills",
               "ai-ppt",
@@ -1046,7 +1046,7 @@
             "open_issues": 30,
             "owner": "HKUDS",
             "repo": "Paper2Slides",
-            "stars": 3833,
+            "stars": 3832,
             "topics": [
               "agentic-ai",
               "llm-agents",
@@ -1135,7 +1135,7 @@
             "open_issues": 7,
             "owner": "nexu-io",
             "repo": "codex-slides",
-            "stars": 923,
+            "stars": 924,
             "topics": [
               "agent-skills",
               "ai-ppt",
@@ -1183,7 +1183,7 @@
             "open_issues": 5,
             "owner": "hugohe3",
             "repo": "ppt-master",
-            "stars": 57384,
+            "stars": 57402,
             "topics": [
               "ai-agent",
               "aippt",
@@ -1215,7 +1215,7 @@
             "open_issues": 1,
             "owner": "veasion",
             "repo": "AiPPT",
-            "stars": 1911,
+            "stars": 1912,
             "topics": [
               "ai-powerpoint",
               "ai-ppt",
@@ -1582,7 +1582,7 @@
             "open_issues": 0,
             "owner": "GordenSun",
             "repo": "GordenPPTSkill",
-            "stars": 3176,
+            "stars": 3177,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
@@ -1937,8 +1937,8 @@
             "id": 344056573,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T12:44:22Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-03T03:50:58Z",
+            "open_issues": 13,
             "owner": "singerla",
             "repo": "pptx-automizer",
             "stars": 246,
@@ -2196,10 +2196,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-16T06:41:12Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "ningzimu",
             "repo": "image-to-editable-ppt-skill",
-            "stars": 2758,
+            "stars": 2759,
             "topics": [
               "codex",
               "codex-skill",
@@ -2297,7 +2297,7 @@
             "open_issues": 105,
             "owner": "iOfficeAI",
             "repo": "OfficeCLI",
-            "stars": 31486,
+            "stars": 31495,
             "topics": [
               "agent",
               "ai",
@@ -2742,7 +2742,7 @@
             "open_issues": 6,
             "owner": "icebird1998",
             "repo": "scientific-illustrator",
-            "stars": 889,
+            "stars": 890,
             "topics": [
               "codex",
               "drawio",
@@ -2833,7 +2833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:18:14.097Z",
+    "last_updated": "2026-10-03T04:34:04.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI PPT, PowerPoint automation, PPTX editing, and slide workflow tools.",
