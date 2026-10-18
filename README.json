@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "zarazhangrui/frontend-slides",
-          "description": "用于创建动画 HTML 演示、并将 PowerPoint 转为网页幻灯片的 skill。 HTML-first, 转换, PDF 源码可编辑 Skill 30,813",
+          "description": "用于创建动画 HTML 演示、并将 PowerPoint 转为网页幻灯片的 skill。 HTML-first, 转换, PDF 源码可编辑 Skill 30,852",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 71,
             "owner": "zarazhangrui",
             "repo": "frontend-slides",
-            "stars": 30812,
+            "stars": 30853,
             "topics": [
               "ai-slides",
               "anthropic",
@@ -38,7 +38,7 @@
         {
           "node_type": "item",
           "title": "alchaincyf/huashu-design",
-          "description": "Claude Code 的 HTML 原生设计 skill，覆盖高保真原型、幻灯片、动画、评审体系和 MP4 导出。 HTML-first, PDF, 视频 部分可编辑 Skill 25,174",
+          "description": "Claude Code 的 HTML 原生设计 skill，覆盖高保真原型、幻灯片、动画、评审体系和 MP4 导出。 HTML-first, PDF, 视频 部分可编辑 Skill 25,325",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -51,7 +51,7 @@
             "open_issues": 4,
             "owner": "alchaincyf",
             "repo": "huashu-design",
-            "stars": 25175,
+            "stars": 25324,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
@@ -59,7 +59,7 @@
         {
           "node_type": "item",
           "title": "op7418/guizang-ppt-skill",
-          "description": "用于生成精致 HTML 幻灯片的 AI-agent skill，内置杂志风、瑞士风布局、图片提示词、社媒封面和演示运行时。 HTML-first, 模板, 图片式 源码可编辑 Skill 28,129",
+          "description": "用于生成精致 HTML 幻灯片的 AI-agent skill，内置杂志风、瑞士风布局、图片提示词、社媒封面和演示运行时。 HTML-first, 模板, 图片式 源码可编辑 Skill 28,185",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -72,7 +72,7 @@
             "open_issues": 51,
             "owner": "op7418",
             "repo": "guizang-ppt-skill",
-            "stars": 28130,
+            "stars": 28185,
             "topics": [
               "ai-agent",
               "claude-code",
@@ -92,7 +92,7 @@
         {
           "node_type": "item",
           "title": "presenton/presenton",
-          "description": "开源 AI 演示生成器和 API，支持 PPTX/PDF 导出。 HTML-first, 应用, 后端, MCP, 模板 可编辑 MCP 11,175",
+          "description": "开源 AI 演示生成器和 API，支持 PPTX/PDF 导出。 HTML-first, 应用, 后端, MCP, 模板 可编辑 MCP 11,195",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -105,7 +105,7 @@
             "open_issues": 31,
             "owner": "presenton",
             "repo": "presenton",
-            "stars": 11175,
+            "stars": 11196,
             "topics": [
               "ai-agent",
               "ai-presentation",
@@ -123,7 +123,7 @@
         {
           "node_type": "item",
           "title": "lewislulu/html-ppt-skill",
-          "description": "HTML PPT Studio agent skill，提供 24 套主题、31 种布局和 20+ 动画，用于制作专业网页演示。 HTML-first, 模板 源码可编辑 Skill 8,721",
+          "description": "HTML PPT Studio agent skill，提供 24 套主题、31 种布局和 20+ 动画，用于制作专业网页演示。 HTML-first, 模板 源码可编辑 Skill 8,727",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -133,10 +133,10 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2026-09-14T07:36:59Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "lewislulu",
             "repo": "html-ppt-skill",
-            "stars": 8721,
+            "stars": 8727,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
@@ -144,7 +144,7 @@
         {
           "node_type": "item",
           "title": "1weiho/open-slide",
-          "description": "为 agent 设计的 slide framework，每页可作为 React 组件，并支持由 agent 根据反馈迭代修改。 HTML-first, 应用, PDF 源码可编辑 Skill 9,288",
+          "description": "为 agent 设计的 slide framework，每页可作为 React 组件，并支持由 agent 根据反馈迭代修改。 HTML-first, 应用, PDF 源码可编辑 Skill 9,297",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -154,10 +154,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-17T02:56:41Z",
-            "open_issues": 134,
+            "open_issues": 135,
             "owner": "open-slide",
             "repo": "open-slide",
-            "stars": 9289,
+            "stars": 9297,
             "topics": [
               "agent",
               "react",
@@ -169,7 +169,7 @@
         {
           "node_type": "item",
           "title": "chuspeeism/dashi-ppt-skill",
-          "description": "用于生成浏览器可编辑演示文稿的 Agent skill，提供多套视觉主题，并支持导出 HTML、PDF 和可编辑 PPTX。 HTML-first, Editor, 转换, 模板 可编辑 Skill 9,627",
+          "description": "用于生成浏览器可编辑演示文稿的 Agent skill，提供多套视觉主题，并支持导出 HTML、PDF 和可编辑 PPTX。 HTML-first, Editor, 转换, 模板 可编辑 Skill 9,655",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -182,7 +182,7 @@
             "open_issues": 16,
             "owner": "chuspeeism",
             "repo": "dashi-ppt-skill",
-            "stars": 9628,
+            "stars": 9655,
             "topics": [
               "agent-skill",
               "ai-agent",
@@ -205,7 +205,7 @@
         {
           "node_type": "item",
           "title": "zarazhangrui/beautiful-html-templates",
-          "description": "面向 coding agent 的可复用 HTML 幻灯片模板库，提供模板索引以及选择和改编 deck 的操作指南。 HTML-first, 模板, Agent 源码可编辑 否 4,801",
+          "description": "面向 coding agent 的可复用 HTML 幻灯片模板库，提供模板索引以及选择和改编 deck 的操作指南。 HTML-first, 模板, Agent 源码可编辑 否 4,808",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -218,7 +218,7 @@
             "open_issues": 1,
             "owner": "zarazhangrui",
             "repo": "beautiful-html-templates",
-            "stars": 4802,
+            "stars": 4808,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
@@ -226,7 +226,7 @@
         {
           "node_type": "item",
           "title": "sligter/LandPPT",
-          "description": "基于 LLM 的演示生成平台，可把文档转换为专业 PPT，并支持模板、样式和多模型选择。 HTML-first, 应用, 图片式, PDF, 视频 部分可编辑 否 3,618",
+          "description": "基于 LLM 的演示生成平台，可把文档转换为专业 PPT，并支持模板、样式和多模型选择。 HTML-first, 应用, 图片式, PDF, 视频 部分可编辑 否 3,619",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -236,10 +236,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-17T07:03:03Z",
-            "open_issues": 3,
+            "open_issues": 5,
             "owner": "sligter",
             "repo": "LandPPT",
-            "stars": 3618,
+            "stars": 3619,
             "topics": [
               "ai",
               "llm",
@@ -251,7 +251,7 @@
         {
           "node_type": "item",
           "title": "allweonedev/presentation-ai",
-          "description": "开源 Gamma 风格 AI 演示生成器，支持主题、编辑和 PowerPoint 导出。 HTML-first, 应用, 模板 部分可编辑 否 3,046",
+          "description": "开源 Gamma 风格 AI 演示生成器，支持主题、编辑和 PowerPoint 导出。 HTML-first, 应用, 模板 部分可编辑 否 3,048",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -264,7 +264,7 @@
             "open_issues": 0,
             "owner": "allweonedev",
             "repo": "presentation-ai",
-            "stars": 3046,
+            "stars": 3048,
             "topics": [
               "ai",
               "all-in-one",
@@ -317,7 +317,7 @@
         {
           "node_type": "item",
           "title": "stackblitz/bolt-slides",
-          "description": "附带 agent skill 的 React 演示框架，用于生成交互式、响应式 Web deck。 HTML-first, React, Interactive 源码可编辑 Skill 1,124",
+          "description": "附带 agent skill 的 React 演示框架，用于生成交互式、响应式 Web deck。 HTML-first, React, Interactive 源码可编辑 Skill 1,131",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -330,7 +330,7 @@
             "open_issues": 7,
             "owner": "stackblitz",
             "repo": "bolt-slides",
-            "stars": 1125,
+            "stars": 1131,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
@@ -359,7 +359,7 @@
         {
           "node_type": "item",
           "title": "Akxan/ppt-agent-skill",
-          "description": "先以 HTML 设计幻灯片、再转换为 SVG 并打包为可编辑 PPTX 的 Claude Code skill。 HTML-first, 转换, 模板, PPTX-native 可编辑 Skill 162",
+          "description": "先以 HTML 设计幻灯片、再转换为 SVG 并打包为可编辑 PPTX 的 Claude Code skill。 HTML-first, 转换, 模板, PPTX-native 可编辑 Skill 163",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -372,7 +372,7 @@
             "open_issues": 0,
             "owner": "Akxan",
             "repo": "ppt-agent-skill",
-            "stars": 162,
+            "stars": 163,
             "topics": [
               "ai-agent",
               "ai-presentation",
@@ -401,7 +401,7 @@
         {
           "node_type": "item",
           "title": "M1n-n9/academic-ppt-master",
-          "description": "将论文和文档制作成 SVG 页面并导出为可编辑 PPTX 的学术演示 skill。 HTML-first, PPTX-native, Academic, 转换, 模板 可编辑 Skill 257",
+          "description": "将论文和文档制作成 SVG 页面并导出为可编辑 PPTX 的学术演示 skill。 HTML-first, PPTX-native, Academic, 转换, 模板 可编辑 Skill 259",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -414,7 +414,7 @@
             "open_issues": 0,
             "owner": "M1n-n9",
             "repo": "academic-ppt-master",
-            "stars": 257,
+            "stars": 259,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
@@ -422,7 +422,7 @@
         {
           "node_type": "item",
           "title": "Kuneosu/make-slide",
-          "description": "用于生成独立 HTML 幻灯片 deck 的通用 AI skill。 HTML-first, PDF, 模板 部分可编辑 Skill 134",
+          "description": "用于生成独立 HTML 幻灯片 deck 的通用 AI skill。 HTML-first, PDF, 模板 部分可编辑 Skill 135",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -435,7 +435,7 @@
             "open_issues": 0,
             "owner": "Kuneosu",
             "repo": "make-slide",
-            "stars": 134,
+            "stars": 135,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
@@ -506,7 +506,7 @@
         {
           "node_type": "item",
           "title": "marp-team/marp-cli",
-          "description": "Marp 命令行工具，可将 Markdown 幻灯片转换为 HTML、PDF、图片和 PowerPoint 文件。 HTML-first, Markdown, 转换 部分可编辑 否 3,872",
+          "description": "Marp 命令行工具，可将 Markdown 幻灯片转换为 HTML、PDF、图片和 PowerPoint 文件。 HTML-first, Markdown, 转换 部分可编辑 否 3,873",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -519,7 +519,7 @@
             "open_issues": 20,
             "owner": "marp-team",
             "repo": "marp-cli",
-            "stars": 3872,
+            "stars": 3873,
             "topics": [
               "cli",
               "deck",
@@ -556,7 +556,7 @@
         {
           "node_type": "item",
           "title": "mucsbr/ppt-agent-workflow-san",
-          "description": "Agent 工作流，可生成 HTML/PNG 幻灯片预览，并将 HTML slides 转换为原生可编辑 PowerPoint。 HTML-first, 转换, 图片式, 自动化 可编辑 Skill 649",
+          "description": "Agent 工作流，可生成 HTML/PNG 幻灯片预览，并将 HTML slides 转换为原生可编辑 PowerPoint。 HTML-first, 转换, 图片式, 自动化 可编辑 Skill 648",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -569,7 +569,7 @@
             "open_issues": 0,
             "owner": "mucsbr",
             "repo": "ppt-agent-workflow-san",
-            "stars": 649,
+            "stars": 648,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
@@ -648,7 +648,7 @@
         {
           "node_type": "item",
           "title": "NomaDamas/slides-grab",
-          "description": "面向 agent 的 HTML 幻灯片创作工具，提供浏览器编辑、验证与设计门禁、图片式模式和实验性 PPTX 导出。 HTML-first, Editor, QA, 转换, 图片式 源码可编辑 Skill 1,217",
+          "description": "面向 agent 的 HTML 幻灯片创作工具，提供浏览器编辑、验证与设计门禁、图片式模式和实验性 PPTX 导出。 HTML-first, Editor, QA, 转换, 图片式 源码可编辑 Skill 1,218",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -661,7 +661,7 @@
             "open_issues": 6,
             "owner": "NomaDamas",
             "repo": "slides-grab",
-            "stars": 1217,
+            "stars": 1219,
             "topics": [
               "ppt",
               "slides",
@@ -673,7 +673,7 @@
         {
           "node_type": "item",
           "title": "arcsin1/oh-my-ppt",
-          "description": "本地优先的 AI HTML 演示应用，支持文档与 PPTX 导入、可视化编辑、模板、动画和多格式导出。 HTML-first, 应用, Editor, 转换, 视频 可编辑 否 2,146",
+          "description": "本地优先的 AI HTML 演示应用，支持文档与 PPTX 导入、可视化编辑、模板、动画和多格式导出。 HTML-first, 应用, Editor, 转换, 视频 可编辑 否 2,155",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -686,7 +686,7 @@
             "open_issues": 9,
             "owner": "arcsin1",
             "repo": "oh-my-ppt",
-            "stars": 2146,
+            "stars": 2155,
             "topics": [
               "ai-agents",
               "ai-ppt",
@@ -727,7 +727,7 @@
         {
           "node_type": "item",
           "title": "ryanbbrown/revealjs-skill",
-          "description": "用于生成 Reveal.js 演示的 coding-agent skill，支持浏览器文字编辑、溢出检查、截图复核和 PDF 导出。 HTML-first, Reveal.js, Editor, QA, PDF 源码可编辑 Skill 415",
+          "description": "用于生成 Reveal.js 演示的 coding-agent skill，支持浏览器文字编辑、溢出检查、截图复核和 PDF 导出。 HTML-first, Reveal.js, Editor, QA, PDF 源码可编辑 Skill 416",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -740,7 +740,7 @@
             "open_issues": 3,
             "owner": "ryanbbrown",
             "repo": "revealjs-skill",
-            "stars": 415,
+            "stars": 416,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
@@ -800,7 +800,7 @@
         {
           "node_type": "item",
           "title": "sandeco/mira-animator",
-          "description": "用于生成动画 HTML deck 和演示视频的多 agent 工作流；PolyForm Noncommercial 允许内容变现，但禁止转售 Mira 或将其嵌入商业软件。 HTML-first, Animation, 视频, Noncommercial 源码可编辑 Skill 220",
+          "description": "用于生成动画 HTML deck 和演示视频的多 agent 工作流；PolyForm Noncommercial 允许内容变现，但禁止转售 Mira 或将其嵌入商业软件。 HTML-first, Animation, 视频, Noncommercial 源码可编辑 Skill 223",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -813,7 +813,7 @@
             "open_issues": 7,
             "owner": "sandeco",
             "repo": "mira-animator",
-            "stars": 220,
+            "stars": 223,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
@@ -821,7 +821,7 @@
         {
           "node_type": "item",
           "title": "pipipi-pikachu/PPTist",
-          "description": "网页幻灯片编辑器，支持模板式 AIPPT、面向 AI 的数据 schema、丰富画布编辑及 PPTX 导入导出；采用 AGPL-3.0，并可另行取得商业许可。 HTML-first, 应用, Editor, 转换, PPTX-native 可编辑 否 9,404",
+          "description": "网页幻灯片编辑器，支持模板式 AIPPT、面向 AI 的数据 schema、丰富画布编辑及 PPTX 导入导出；采用 AGPL-3.0，并可另行取得商业许可。 HTML-first, 应用, Editor, 转换, PPTX-native 可编辑 否 9,405",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -834,7 +834,7 @@
             "open_issues": 21,
             "owner": "pipipi-pikachu",
             "repo": "PPTist",
-            "stars": 9404,
+            "stars": 9405,
             "topics": [
               "ai",
               "aippt",
@@ -861,7 +861,7 @@
         {
           "node_type": "item",
           "title": "Anionex/banana-slides",
-          "description": "基于 Nano Banana Pro 的原生 AI PPT 应用，支持从想法、大纲、素材或页面描述生成演示，并导出可编辑 PPT。 Image-first, 图片式, 应用, PDF, 视频 部分可编辑 否 15,768",
+          "description": "基于 Nano Banana Pro 的原生 AI PPT 应用，支持从想法、大纲、素材或页面描述生成演示，并导出可编辑 PPT。 Image-first, 图片式, 应用, PDF, 视频 部分可编辑 否 15,776",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -870,11 +870,11 @@
             "id": 1106663535,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-17T07:02:15Z",
-            "open_issues": 68,
+            "last_commit": "2026-10-18T15:51:55Z",
+            "open_issues": 67,
             "owner": "Anionex",
             "repo": "banana-slides",
-            "stars": 15768,
+            "stars": 15777,
             "topics": [
               "ai-ppt-maker",
               "ai-slide-builder",
@@ -893,7 +893,7 @@
         {
           "node_type": "item",
           "title": "op7418/NanoBanana-PPT-Skills",
-          "description": "NanoBanana PPT Skills，用于自动生成高质量 PPT 图片和视频，支持智能转场和交互式播放。 Image-first, 图片式, 视频 图片式 Skill 3,301",
+          "description": "NanoBanana PPT Skills，用于自动生成高质量 PPT 图片和视频，支持智能转场和交互式播放。 Image-first, 图片式, 视频 图片式 Skill 3,305",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -906,7 +906,7 @@
             "open_issues": 8,
             "owner": "op7418",
             "repo": "NanoBanana-PPT-Skills",
-            "stars": 3301,
+            "stars": 3305,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
@@ -914,7 +914,7 @@
         {
           "node_type": "item",
           "title": "helloianneo/ian-handdrawn-ppt",
-          "description": "用于生成中文手绘技术演示整页视觉的 Codex skill，以 PNG 图片形式输出。 Image-first, 图片式 图片式 Skill 1,472",
+          "description": "用于生成中文手绘技术演示整页视觉的 Codex skill，以 PNG 图片形式输出。 Image-first, 图片式 图片式 Skill 1,475",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -927,7 +927,7 @@
             "open_issues": 2,
             "owner": "helloianneo",
             "repo": "ian-handdrawn-ppt",
-            "stars": 1472,
+            "stars": 1475,
             "topics": [
               "ai-agent",
               "chinese",
@@ -942,7 +942,7 @@
         {
           "node_type": "item",
           "title": "NyxTides/ppt-image-first",
-          "description": "面向 Codex、Claude Code 和 Opencode CLI 的 image-first PPT skill。 Image-first, 图片式 图片式 Skill 1,228",
+          "description": "面向 Codex、Claude Code 和 Opencode CLI 的 image-first PPT skill。 Image-first, 图片式 图片式 Skill 1,226",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -955,7 +955,7 @@
             "open_issues": 0,
             "owner": "NyxTides",
             "repo": "ppt-image-first",
-            "stars": 1228,
+            "stars": 1226,
             "topics": [
               "office",
               "powerpoint",
@@ -969,7 +969,7 @@
         {
           "node_type": "item",
           "title": "JuneYaooo/gpt-image2-ppt-skills",
-          "description": "使用 gpt-image-2 仿制 PPTX 版式并替换内容的 skill，附带多套精选风格。 Image-first, 图片式, 模板 图片式 Skill 1,369",
+          "description": "使用 gpt-image-2 仿制 PPTX 版式并替换内容的 skill，附带多套精选风格。 Image-first, 图片式, 模板 图片式 Skill 1,370",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -982,7 +982,7 @@
             "open_issues": 2,
             "owner": "JuneYaooo",
             "repo": "gpt-image2-ppt-skills",
-            "stars": 1369,
+            "stars": 1370,
             "topics": [
               "ai-ppt",
               "ai-ppt-skills",
@@ -1001,7 +1001,7 @@
         {
           "node_type": "item",
           "title": "ningzimu/codex-ppt-skill",
-          "description": "使用 gpt-image-2 生成图片式 PowerPoint deck 的 Codex skill。 Image-first, 图片式 图片式 Skill 6,999",
+          "description": "使用 gpt-image-2 生成图片式 PowerPoint deck 的 Codex skill。 Image-first, 图片式 图片式 Skill 7,033",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1014,7 +1014,7 @@
             "open_issues": 2,
             "owner": "ningzimu",
             "repo": "codex-ppt-skill",
-            "stars": 6999,
+            "stars": 7033,
             "topics": [
               "agent-skills",
               "ai-ppt",
@@ -1034,7 +1034,7 @@
         {
           "node_type": "item",
           "title": "HKUDS/Paper2Slides",
-          "description": "通过 RAG、内容规划和图像生成把文档渲染为幻灯片图片与 PDF deck 的工作流。 Image-first, 图片式, Academic, PDF 图片式 否 3,841",
+          "description": "通过 RAG、内容规划和图像生成把文档渲染为幻灯片图片与 PDF deck 的工作流。 Image-first, 图片式, Academic, PDF 图片式 否 3,843",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1047,7 +1047,7 @@
             "open_issues": 30,
             "owner": "HKUDS",
             "repo": "Paper2Slides",
-            "stars": 3841,
+            "stars": 3843,
             "topics": [
               "agentic-ai",
               "llm-agents",
@@ -1123,7 +1123,7 @@
         {
           "node_type": "item",
           "title": "nexu-io/codex-slides",
-          "description": "图片原生的 Codex 幻灯片工作室，支持持久项目、研究、并行渲染、编辑和导出；内置社区预览仍受上游署名条款约束。 Image-first, 图片式, 应用, Codex, MCP 图片式 MCP 939",
+          "description": "图片原生的 Codex 幻灯片工作室，支持持久项目、研究、并行渲染、编辑和导出；内置社区预览仍受上游署名条款约束。 Image-first, 图片式, 应用, Codex, MCP 图片式 MCP 941",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1136,7 +1136,7 @@
             "open_issues": 8,
             "owner": "nexu-io",
             "repo": "codex-slides",
-            "stars": 939,
+            "stars": 941,
             "topics": [
               "agent-skills",
               "ai-ppt",
@@ -1171,7 +1171,7 @@
         {
           "node_type": "item",
           "title": "hugohe3/ppt-master",
-          "description": "从文档、URL 和 Markdown 生成原生可编辑 PowerPoint 的 AI 工作流。 PPTX-native, 模板 可编辑 Skill 63,141",
+          "description": "从文档、URL 和 Markdown 生成原生可编辑 PowerPoint 的 AI 工作流。 PPTX-native, 模板 可编辑 Skill 63,454",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1184,7 +1184,7 @@
             "open_issues": 1,
             "owner": "hugohe3",
             "repo": "ppt-master",
-            "stars": 63146,
+            "stars": 63455,
             "topics": [
               "ai-agent",
               "aippt",
@@ -1203,7 +1203,7 @@
         {
           "node_type": "item",
           "title": "veasion/AiPPT",
-          "description": "可通过主题、文件或网址生成 PPT 的 AI 工具，支持自定义模板、图表、动画和 3D 特效解析渲染。 自动化, 转换, 应用, PPTX-native 可编辑 否 1,914",
+          "description": "可通过主题、文件或网址生成 PPT 的 AI 工具，支持自定义模板、图表、动画和 3D 特效解析渲染。 自动化, 转换, 应用, PPTX-native 可编辑 否 1,913",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1216,7 +1216,7 @@
             "open_issues": 0,
             "owner": "veasion",
             "repo": "AiPPT",
-            "stars": 1914,
+            "stars": 1913,
             "topics": [
               "ai-powerpoint",
               "ai-ppt",
@@ -1266,7 +1266,7 @@
         {
           "node_type": "item",
           "title": "Gabberflast/academic-pptx-skill",
-          "description": "面向学术演示的 Claude skill，强调行动标题、论证结构、图表纪律、引用规范和表达优先设计。 PPTX-native, 模板 可编辑 Skill 1,212",
+          "description": "面向学术演示的 Claude skill，强调行动标题、论证结构、图表纪律、引用规范和表达优先设计。 PPTX-native, 模板 可编辑 Skill 1,224",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1279,7 +1279,7 @@
             "open_issues": 4,
             "owner": "Gabberflast",
             "repo": "academic-pptx-skill",
-            "stars": 1212,
+            "stars": 1224,
             "topics": [
               "academic",
               "academic-presentations",
@@ -1342,7 +1342,7 @@
         {
           "node_type": "item",
           "title": "addsumtech/slides_maker",
-          "description": "将论文、代码仓库和文档生成原生可编辑 PPTX 的 agent skill，支持备注、图表和自动审核。 PPTX-native, 模板, 自动化, QA 可编辑 Skill 569",
+          "description": "将论文、代码仓库和文档生成原生可编辑 PPTX 的 agent skill，支持备注、图表和自动审核。 PPTX-native, 模板, 自动化, QA 可编辑 Skill 580",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1355,7 +1355,7 @@
             "open_issues": 0,
             "owner": "addsumtech",
             "repo": "slides_maker",
-            "stars": 569,
+            "stars": 580,
             "topics": [
               "agent",
               "ai",
@@ -1433,7 +1433,7 @@
             "open_issues": 3,
             "owner": "likaku",
             "repo": "Mck-ppt-design-skill",
-            "stars": 304,
+            "stars": 305,
             "topics": [
               "agent-skill",
               "ai-skill",
@@ -1483,7 +1483,7 @@
         {
           "node_type": "item",
           "title": "tristan-mcinnis/pptx-from-layouts-skill",
-          "description": "使用模板 slide master layouts 从 Markdown 生成 PowerPoint deck 的 Claude Code skill。 PPTX-native, 模板, 自动化 可编辑 Skill 36",
+          "description": "使用模板 slide master layouts 从 Markdown 生成 PowerPoint deck 的 Claude Code skill。 PPTX-native, 模板, 自动化 可编辑 Skill 37",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1496,7 +1496,7 @@
             "open_issues": 1,
             "owner": "tristan-mcinnis",
             "repo": "pptx-from-layouts-skill",
-            "stars": 36,
+            "stars": 37,
             "topics": [
               "agents",
               "ai",
@@ -1541,7 +1541,7 @@
         {
           "node_type": "item",
           "title": "icip-cas/PPTAgent",
-          "description": "用于反思式 PowerPoint 生成的 agentic framework，支持 PPTX 导出、离线模式、WebUI、CLI 和 MCP。 PPTX-native, Agent, MCP, Research 可编辑 MCP 5,124",
+          "description": "用于反思式 PowerPoint 生成的 agentic framework，支持 PPTX 导出、离线模式、WebUI、CLI 和 MCP。 PPTX-native, Agent, MCP, Research 可编辑 MCP 5,128",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1554,7 +1554,7 @@
             "open_issues": 17,
             "owner": "icip-cas",
             "repo": "PPTAgent",
-            "stars": 5124,
+            "stars": 5128,
             "topics": [
               "agent",
               "agentic-ai",
@@ -1570,7 +1570,7 @@
         {
           "node_type": "item",
           "title": "GordenSun/GordenPPTSkill",
-          "description": "通过结构化文本编辑和内置模板生成可编辑 PowerPoint 的 python-pptx skill；其中模板仅限个人、研究和非商业教育用途。 PPTX-native, 模板, 自动化 可编辑 Skill 3,663",
+          "description": "通过结构化文本编辑和内置模板生成可编辑 PowerPoint 的 python-pptx skill；其中模板仅限个人、研究和非商业教育用途。 PPTX-native, 模板, 自动化 可编辑 Skill 3,673",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1583,7 +1583,7 @@
             "open_issues": 0,
             "owner": "GordenSun",
             "repo": "GordenPPTSkill",
-            "stars": 3663,
+            "stars": 3673,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
@@ -1622,7 +1622,7 @@
         {
           "node_type": "item",
           "title": "OpenDCAI/Paper2Any",
-          "description": "面向论文的多模态工作流，可生成可编辑科研图、图解、海报和幻灯片，包含 Paper2PPT、PDF2PPT 和 Image2PPT。 PPTX-native, Academic, 转换, 图片式 可编辑 否 2,812",
+          "description": "面向论文的多模态工作流，可生成可编辑科研图、图解、海报和幻灯片，包含 Paper2PPT、PDF2PPT 和 Image2PPT。 PPTX-native, Academic, 转换, 图片式 可编辑 否 2,811",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1635,7 +1635,7 @@
             "open_issues": 8,
             "owner": "OpenDCAI",
             "repo": "Paper2Any",
-            "stars": 2812,
+            "stars": 2811,
             "topics": [
               "agent",
               "ai",
@@ -1651,7 +1651,7 @@
         {
           "node_type": "item",
           "title": "zouchenzhen/thesis-defense-pptx-skill",
-          "description": "从 LaTeX 或 PDF 论文和 PPTX 模板生成可编辑论文答辩 PowerPoint 的 Claude Code skill。 PPTX-native, Academic, 模板, PDF 可编辑 Skill 270",
+          "description": "从 LaTeX 或 PDF 论文和 PPTX 模板生成可编辑论文答辩 PowerPoint 的 Claude Code skill。 PPTX-native, Academic, 模板, PDF 可编辑 Skill 271",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1664,7 +1664,7 @@
             "open_issues": 1,
             "owner": "zouchenzhen",
             "repo": "thesis-defense-pptx-skill",
-            "stars": 270,
+            "stars": 271,
             "topics": [
               "agent-skill",
               "chinese",
@@ -1686,7 +1686,7 @@
         {
           "node_type": "item",
           "title": "Sven-LI-sankyuu/presentation-skills",
-          "description": "围绕精修、可编辑、可验证 PowerPoint deck 生成工作流的演示 skill 集合。 PPTX-native, 模板, 自动化, QA 可编辑 Skill 174",
+          "description": "围绕精修、可编辑、可验证 PowerPoint deck 生成工作流的演示 skill 集合。 PPTX-native, 模板, 自动化, QA 可编辑 Skill 175",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1699,7 +1699,7 @@
             "open_issues": 0,
             "owner": "Sven-LI-sankyuu",
             "repo": "presentation-skills",
-            "stars": 174,
+            "stars": 175,
             "topics": [
               "claude-code",
               "codex",
@@ -1802,7 +1802,7 @@
         {
           "node_type": "item",
           "title": "gitbrent/PptxGenJS",
-          "description": "用于创建 PowerPoint 的 JavaScript 库。 库, PPTX-native, 自动化 可编辑 否 6,280",
+          "description": "用于创建 PowerPoint 的 JavaScript 库。 库, PPTX-native, 自动化 可编辑 否 6,284",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1815,7 +1815,7 @@
             "open_issues": 305,
             "owner": "gitbrent",
             "repo": "PptxGenJS",
-            "stars": 6281,
+            "stars": 6284,
             "topics": [
               "es6-powerpoint",
               "export-to-pptx",
@@ -1876,7 +1876,7 @@
         {
           "node_type": "item",
           "title": "scanny/python-pptx",
-          "description": "用于创建和更新 PowerPoint 文件的 Python 库。 库, PPTX-native, 自动化 可编辑 否 3,557",
+          "description": "用于创建和更新 PowerPoint 文件的 Python 库。 库, PPTX-native, 自动化 可编辑 否 3,558",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1889,7 +1889,7 @@
             "open_issues": 541,
             "owner": "scanny",
             "repo": "python-pptx",
-            "stars": 3557,
+            "stars": 3558,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.028Z"
@@ -1984,8 +1984,8 @@
             "id": 1107187814,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T12:13:08Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-18T08:40:36Z",
+            "open_issues": 5,
             "owner": "atharva9167j",
             "repo": "dom-to-pptx",
             "stars": 379,
@@ -2046,7 +2046,7 @@
         {
           "node_type": "item",
           "title": "xiao24bei/xiaobei-skill-image-to-vba",
-          "description": "将学术图像和幻灯片截图重建为可编辑 Office shapes 与 VBA 代码的 agent skill。 转换, 图片式, VBA, PowerPoint, 自动化 可编辑 Skill 600",
+          "description": "将学术图像和幻灯片截图重建为可编辑 Office shapes 与 VBA 代码的 agent skill。 转换, 图片式, VBA, PowerPoint, 自动化 可编辑 Skill 605",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2059,7 +2059,7 @@
             "open_issues": 2,
             "owner": "xiao24bei",
             "repo": "xiaobei-skill",
-            "stars": 600,
+            "stars": 605,
             "topics": [
               "academic-figures",
               "academic-ppt",
@@ -2126,8 +2126,8 @@
             "id": 1171445085,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-03T07:04:06Z",
-            "open_issues": 46,
+            "last_commit": "2026-10-18T13:23:04Z",
+            "open_issues": 47,
             "owner": "trsdn",
             "repo": "mcp-server-ppt",
             "stars": 41,
@@ -2155,7 +2155,7 @@
         {
           "node_type": "item",
           "title": "ningzimu/image-to-editable-ppt-skill",
-          "description": "把幻灯片图片、PDF 和图片版 PPTX 转换为可编辑 PowerPoint deck 的 Codex skill。 转换, 图片式, PDF 可编辑 Skill 2,978",
+          "description": "把幻灯片图片、PDF 和图片版 PPTX 转换为可编辑 PowerPoint deck 的 Codex skill。 转换, 图片式, PDF 可编辑 Skill 2,989",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2168,7 +2168,7 @@
             "open_issues": 0,
             "owner": "ningzimu",
             "repo": "image-to-editable-ppt-skill",
-            "stars": 2978,
+            "stars": 2989,
             "topics": [
               "codex",
               "codex-skill",
@@ -2229,10 +2229,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-10-08T06:33:02Z",
-            "open_issues": 8,
+            "open_issues": 10,
             "owner": "ykuwai",
             "repo": "ppt-mcp",
-            "stars": 101,
+            "stars": 100,
             "topics": [
               "ai-agents",
               "apple-events",
@@ -2253,7 +2253,7 @@
         {
           "node_type": "item",
           "title": "iOfficeAI/OfficeCLI",
-          "description": "面向 AI agent 的本地优先 Office CLI，可在无需 Microsoft Office 的情况下创建、检查、编辑、渲染和自动化 PowerPoint。 CLI, 自动化, PPTX-native, Preview 可编辑 Skill 32,111",
+          "description": "面向 AI agent 的本地优先 Office CLI，可在无需 Microsoft Office 的情况下创建、检查、编辑、渲染和自动化 PowerPoint。 CLI, 自动化, PPTX-native, Preview 可编辑 Skill 32,142",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2263,10 +2263,10 @@
             "language": "C#",
             "license": "Apache-2.0",
             "last_commit": "2026-10-13T02:29:44Z",
-            "open_issues": 103,
+            "open_issues": 107,
             "owner": "iOfficeAI",
             "repo": "OfficeCLI",
-            "stars": 32111,
+            "stars": 32144,
             "topics": [
               "agent",
               "ai",
@@ -2341,7 +2341,7 @@
         {
           "node_type": "item",
           "title": "Morgensonne/EditDeck",
-          "description": "端到端演示工作流，可生成幻灯片图片、标准 PPTX 和完全可编辑 PPTX，并支持从既有幻灯片图片重建可编辑 deck。 转换, 图片式, PPTX-native, 自动化 可编辑 否 1,204",
+          "description": "端到端演示工作流，可生成幻灯片图片、标准 PPTX 和完全可编辑 PPTX，并支持从既有幻灯片图片重建可编辑 deck。 转换, 图片式, PPTX-native, 自动化 可编辑 否 1,203",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2392,8 +2392,8 @@
             "id": 196728321,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-17T21:16:08Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-18T20:58:41Z",
+            "open_issues": 2,
             "owner": "ShapeCrawler",
             "repo": "ShapeCrawler",
             "stars": 442,
@@ -2607,7 +2607,7 @@
         {
           "node_type": "item",
           "title": "ferdinandobons/brand-docs",
-          "description": "Office 模板自动化 skills，可提取可复用品牌 profile，并通过确定性与视觉 QA 生成同格式 PowerPoint、Word 和 Excel 文件。 模板, 自动化, PPTX-native, QA, Office 可编辑 Skill 277",
+          "description": "Office 模板自动化 skills，可提取可复用品牌 profile，并通过确定性与视觉 QA 生成同格式 PowerPoint、Word 和 Excel 文件。 模板, 自动化, PPTX-native, QA, Office 可编辑 Skill 278",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2620,7 +2620,7 @@
             "open_issues": 0,
             "owner": "ferdinandobons",
             "repo": "brand-docs",
-            "stars": 277,
+            "stars": 278,
             "topics": [
               "ai-document-generation",
               "claude-code-plugin",
@@ -2698,7 +2698,7 @@
         {
           "node_type": "item",
           "title": "icebird1998/scientific-illustrator",
-          "description": "Codex plugin，可将科研参考图分阶段重建为可编辑的 PowerPoint、WPS 或 draw.io 对象，并执行检查与修正。 Plugin, MCP, 自动化, PowerPoint, 转换, QA 可编辑 MCP 934",
+          "description": "Codex plugin，可将科研参考图分阶段重建为可编辑的 PowerPoint、WPS 或 draw.io 对象，并执行检查与修正。 Plugin, MCP, 自动化, PowerPoint, 转换, QA 可编辑 MCP 939",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2711,7 +2711,7 @@
             "open_issues": 7,
             "owner": "icebird1998",
             "repo": "scientific-illustrator",
-            "stars": 934,
+            "stars": 939,
             "topics": [
               "codex",
               "drawio",
@@ -2802,7 +2802,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T21:46:32.652Z",
+    "last_updated": "2026-10-18T21:56:02.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI PPT, PowerPoint automation, PPTX editing, and slide workflow tools.",
@@ -2810,11 +2810,11 @@
       "id": 1247981517,
       "language": "Python",
       "license": "NOASSERTION",
-      "last_commit": "2026-10-17T20:35:42Z",
+      "last_commit": "2026-10-18T20:41:26Z",
       "open_issues": 0,
       "owner": "ningzimu",
       "repo": "awesome-ai-ppt",
-      "stars": 166,
+      "stars": 167,
       "topics": [
         "ai",
         "aippt",
@@ -2828,7 +2828,7 @@
         "slides"
       ]
     },
-    "original_repository_sha": "5f13b6afa03a4e0c6746626e52bcdb4923faf59d",
+    "original_repository_sha": "bd443a315cc6da73d2d3f7f80c0c007d547b6514",
     "enhanced_repository": "enhansome/enhansome-ai-ppt",
     "enhanced_repository_description": null,
     "title": "Awesome AI PPT with stars"
